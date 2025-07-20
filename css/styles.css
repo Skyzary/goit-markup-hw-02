@@ -1,7 +1,7 @@
 /* Base */
 body {
   background-color: #fff;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .logo span {
-  color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 /* Header Navigation */
@@ -40,7 +40,7 @@ body {
 
 .nav-list a,
 .contact-list a {
-  color: #2E2F42;
+  color: #2e2f42;
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;
