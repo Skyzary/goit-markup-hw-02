@@ -28,8 +28,10 @@ body {
 .nav-links:focus {
   color: #404bbf;
 }
+
+
 .contact-info {
-  font-style: normal;
+  font-style: normal ;
 }
 .contact-links {
   font-size: 16px;
@@ -54,6 +56,7 @@ body {
   color: #ffffff;
 }
 .slogan-order {
+  font-family: inherit;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
