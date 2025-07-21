@@ -12,7 +12,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo span {
+.header-span {
   color: #2e2f42;
 }
 .nav-links {
@@ -106,7 +106,7 @@ body {
 
 
 }
-.footer .logo-footer span {
+ .footer-span {
   color: #f4f4fd;
 
 }
