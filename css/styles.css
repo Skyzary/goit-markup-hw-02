@@ -15,7 +15,7 @@ body {
 .logo span {
   color: #2e2f42;
 }
-.nav-links{
+.nav-links {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -25,10 +25,10 @@ body {
 .nav-links:hover {
   color: #404bbf;
 }
-.nav-links:focus{
+.nav-links:focus {
   color: #404bbf;
-} 
-.contact-info{
+}
+.contact-info {
   font-style: normal;
 }
 .contact-links {
@@ -38,15 +38,15 @@ body {
   color: #434455;
 }
 .contact-links:hover {
-  color: #404bbf ;
+  color: #404bbf;
 }
 .contact-links:focus {
   color: #404bbf;
 }
 .slogan-section {
-  background-color: #2e2f42; 
+  background-color: #2e2f42;
 }
-.slogan{
+.slogan {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -54,7 +54,7 @@ body {
   color: #ffffff;
 }
 .slogan-order {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -63,8 +63,36 @@ body {
   cursor: pointer;
 }
 .slogan-order:hover {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 .slogan-order:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
+}
+.default-h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.default-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.team-section {
+  background-color: #f4f4fd;
+}
+.default-h2{
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+  
+}
+.team-member {
+  background-color: #ffffff;
 }
